@@ -1,0 +1,21 @@
+RewriteEngine On
+
+RewriteRule ^home?$ index.html
+RewriteRule ^logout?$ logout.php
+RewriteRule ^login?$ login.php
+RewriteRule ^register?$ register.php
+RewriteRule ^shop?$ shop.html
+RewriteRule ^plain-hoodies?$ plain-hoodies.html
+RewriteRule ^camo?$ camo-hoodies.html
+RewriteRule ^brown-camo?$ brown-camo.html
+RewriteRule ^white-camo?$ white-camo.html
+RewriteRule ^green-camo?$ junglegreen-camo.html
+RewriteRule ^sweaters?$ sweaters.html
+RewriteRule ^white-sweater?$ white-sweater.html
+RewriteRule ^maroon-sweater?$ maroon-sweater.html
+RewriteRule ^navyblue-sweater?$ navyblue-sweater.html
+RewriteRule ^black-sweater?$ black-sweater.html
+RewriteRule ^sweatshirts?$ sweatshirts.html
+RewriteRule ^blue-sweatshirt?$ blue-sweatshirt.html
+RewriteRule ^white-sweatshirt?$ white-sweatshirt.html
+RewriteRule ^black-sweatshirt?$ black-sweatshirt.html
